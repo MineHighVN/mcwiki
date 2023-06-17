@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mcwiki/static/css/main.cd99ff95.css",
-    "main.js": "/mcwiki/static/js/main.54c1f97a.js",
+    "main.js": "/mcwiki/static/js/main.4bde3794.js",
     "index.html": "/mcwiki/index.html",
     "main.cd99ff95.css.map": "/mcwiki/static/css/main.cd99ff95.css.map",
-    "main.54c1f97a.js.map": "/mcwiki/static/js/main.54c1f97a.js.map"
+    "main.4bde3794.js.map": "/mcwiki/static/js/main.4bde3794.js.map"
   },
   "entrypoints": [
     "static/css/main.cd99ff95.css",
-    "static/js/main.54c1f97a.js"
+    "static/js/main.4bde3794.js"
   ]
 }
